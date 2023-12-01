@@ -1,6 +1,7 @@
 # easy6502
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+（高中生渣翻，进度随缘）
+由 Nick Morgan 制作的 Easy6502 是一个一站式的6502汇编语言教程，包含一系列你可以在内置模拟器中修改和运行的例程。
 Easy6502 by Nick Morgan is one-stop accessible tutorial on 6502 assembly language programming,
 including a series of worked example programs which you can edit and run in the embedded emulator.
 
